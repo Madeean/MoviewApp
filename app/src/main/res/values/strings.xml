@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day 14</string>
+    <string name="indomie_goreng">Indomie Goreng</string>
+    <string name="back_button">Back Button</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="stok_kosong">Stok Kosong</string>
+    <string name="stok_tersedia">Stok tersedia</string>
+
+    <string name="stok_tersedia_pcs">Stok tersedia: %d %s</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
